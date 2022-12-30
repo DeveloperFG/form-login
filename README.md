@@ -1,15 +1,21 @@
-# fernandev
+ # Formulario de Login <br> 
 
-## React Interview Challenge #02
+<p align="center">
+ 📝 Descrição <br> 
+   Login + Promise "apenas para estudos"  <br> 
+</p>
 
-E aí dev, tudo bem? Trouxe pra você mais um desafio de entrevista para que você possa treinar em casa e aprimorar suas habilidades.
 
-Dessa vez temos um formulário de login incompleto e a sua missão é finalizar ele para a sua equipe.
+<div align="center">
+<img src="https://i.ibb.co/pbVFsYH/Desktop-Screenshot-2022-12-30-10-08-41-32.png"/>
+</div>
 
-Preste bem atenção às instruções dentro do arquivo App.jsx e bora codar!
+ <br> 
+ 
+# 🚀 Tecnologias Usadas
+* React + Vit
 
-**Se você curtir esse conteúdo, deixa uma STAR aí nesse repo,** porque isso me motiva a trazer mais conteúdos desse gênero.
+# 📚 Finalidade
+* Simular o login de um usuário, tratamento de possível erro ao logar ou sucesso! .
 
-## Resolução do desafio
-
-https://youtu.be/NAtf3T9gG7s
+<br> 
